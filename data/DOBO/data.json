@@ -1,0 +1,16 @@
+{
+  "name": "Dogebonk",
+  "symbol": "DOBO",
+  "decimals": 18,
+  "description": "The true original Dogebonk, a community centric memetic coin combining a dog and a bat, the first memecoin in space.",
+  "website": "https://www.dogebonk.io",
+  "twitter": "@dogebonk_ETH",
+  "tokens": {
+    "ethereum": {
+      "address": "0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0"
+    },
+    "base": {
+      "address": "need to create BASE token"
+    }
+  }
+}
